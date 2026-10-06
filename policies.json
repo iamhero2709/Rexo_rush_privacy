@@ -1,0 +1,111 @@
+{
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      [
+        "About this policy",
+        "ZERO SHOT LAB develops Rexo Rush: Neon Reflex Tap (Android package com.rexo.rush). This policy explains how the current offline Android game, its advertising services, and this policy website handle information. Contact: randhir2709vns@gmail.com."
+      ],
+      [
+        "Game information stored on your device",
+        "Your chosen player name, local profile identifier, scores, coins, skins, power-ups, achievements, level progress, streaks and settings are saved on your device. The current version does not use a developer-operated game server, password-based registration, cloud sync or an online leaderboard. The leaderboard is simulated locally. We do not receive your local game save through the game."
+      ],
+      [
+        "Advertising and third-party data",
+        "The Android app uses Google AdMob for interstitial and optional rewarded ads. Google’s Mobile Ads SDK collects and shares IP address (which can indicate approximate location), advertising/app-set and applicable device or account identifiers, ad and app interactions, and diagnostic information. Google and its advertising partners process this information for advertising, measurement, analytics and fraud prevention. Personalized advertising may be used depending on device settings and applicable consent requirements. We do not directly collect precise GPS location, contacts, photos or microphone recordings for gameplay. Advertising partners process data under their own policies; see Google’s Privacy Policy and advertising controls linked below."
+      ],
+      [
+        "Permissions, reminders and sharing",
+        "Optional local notifications remind you about streaks. You can disable them through Android notification settings. Gameplay uses sound playback and vibration. If you use the share feature, the content you choose is passed to the app or service you select; its privacy policy applies."
+      ],
+      [
+        "Purchases and virtual items",
+        "The current release has no real-money in-app purchases or active RevenueCat integration. Coins and virtual items are earned through gameplay or rewarded ads. If purchases are introduced, this policy will be updated to describe the payment platform, purchase records and any purchase-management provider before that release."
+      ],
+      [
+        "Information you send us",
+        "If you email ZERO SHOT LAB, we receive your email address and the information you choose to include. We use it to respond to support or privacy inquiries. Please avoid sending passwords or other unnecessary sensitive information. Support information is retained while needed to resolve your request, handle follow-up or meet applicable legal requirements; you may request deletion by email."
+      ],
+      [
+        "Retention and deletion",
+        "Local progress remains until you delete it. In the app, open Home → Settings → Delete Account to remove the local game profile and progress. To remove remaining local preferences, use Android Settings → Apps → Rexo Rush → Storage → Clear storage/data. This resets progress and cannot be undone. We cannot restore a local save. Device backups may retain copies under your operating system or backup provider’s controls. Clearing the game’s data does not erase information already processed by Google or advertising partners; their retention and deletion practices apply. Use Google’s privacy controls or contact us for assistance with a privacy request."
+      ],
+      [
+        "Your choices and data protection",
+        "Android and Google settings provide advertising identifier and ad-personalization controls; availability depends on your Android version. Local notification permission is optional. You may contact us about access, correction or deletion of information you have sent us and other applicable privacy rights. Local storage relies on your device’s protections. Google reports that Mobile Ads SDK data is encrypted in transit. No storage or transmission method is completely secure."
+      ],
+      [
+        "Children",
+        "Rexo Rush is intended for users aged 13 and above and is not directed to children under 13. We do not knowingly request personal information from children under 13. If you believe a child has sent us personal information, contact us so we can review and delete information we control. A release intended for children would require corresponding advertising and policy changes."
+      ],
+      [
+        "This website and external links",
+        "These policy pages are hosted on GitHub Pages. ZERO SHOT LAB has not added cookies, advertising or analytics scripts to these pages. GitHub may process technical request information, including IP addresses, to operate and secure its hosting service. External websites are governed by their own privacy policies."
+      ],
+      [
+        "Changes and contact",
+        "Effective and last updated: 6 October 2026. Changes will be published here with an updated date. For privacy inquiries, contact ZERO SHOT LAB at randhir2709vns@gmail.com."
+      ]
+    ],
+    "links": [
+      [
+        "Google Privacy Policy",
+        "https://policies.google.com/privacy"
+      ],
+      [
+        "Google ad controls",
+        "https://myadcenter.google.com/"
+      ],
+      [
+        "AdMob SDK data disclosure",
+        "https://developers.google.com/admob/android/privacy/play-data-disclosure"
+      ],
+      [
+        "GitHub Privacy Statement",
+        "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+      ]
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "sections": [
+      [
+        "About the game",
+        "These terms apply to Rexo Rush: Neon Reflex Tap, developed by ZERO SHOT LAB. By using the game, you agree to these terms. If you do not agree, stop using the game. The game is intended for users aged 13 and above; minors should have a parent or guardian’s permission."
+      ],
+      [
+        "Permission to use",
+        "You may use the game for personal entertainment. The app and its original assets remain the property of their respective owners. Do not redistribute the app or assets without authorization, or bypass security protections, except where applicable law permits."
+      ],
+      [
+        "Local profile and progress",
+        "The current version uses an on-device guest profile, not a server account. Scores, virtual items and progress are stored locally, and leaderboard opponents are simulated. Cloud recovery and cross-device sync are not provided. Clearing app storage, deleting the profile, reinstalling, device changes or device failures may cause progress loss. ZERO SHOT LAB cannot recover local saves."
+      ],
+      [
+        "Virtual items and rewards",
+        "Coins, skins and power-ups are for use only within the game. They have no cash value and cannot be withdrawn, traded for money or redeemed for real-world prizes. Gameplay and reward balancing may change with updates. The current version does not offer real-money purchases; any future purchase features will carry updated terms and the applicable store rules."
+      ],
+      [
+        "Ads and third-party services",
+        "The game displays interstitial and optional rewarded ads through Google AdMob. Ads require connectivity and may be unavailable. A rewarded benefit depends on a completed ad and the provider’s completion confirmation. External ads, links and services are operated by third parties and their terms and privacy practices apply."
+      ],
+      [
+        "Fair use",
+        "Do not exploit bugs, automate ad interactions, use modified clients to manipulate rewards, or disrupt the game or third-party services. Report problems to ZERO SHOT LAB rather than abusing them."
+      ],
+      [
+        "Availability and responsibility",
+        "We aim to provide a working game, but cannot guarantee uninterrupted availability or error-free operation. To the extent permitted by applicable law, the game is provided as available without additional warranties. Nothing in these terms removes consumer rights or excludes liability that cannot lawfully be excluded."
+      ],
+      [
+        "Privacy and stopping use",
+        "Our Privacy Policy describes local storage, advertising and deletion options. You may stop using the game at any time and clear its local data. Deleting local progress does not delete information already processed by third-party advertising services."
+      ],
+      [
+        "Updates and contact",
+        "Effective and last updated: 6 October 2026. We may update the game and these terms; the latest terms and revision date will be available on this website and in the app. For support or questions, email ZERO SHOT LAB at randhir2709vns@gmail.com."
+      ]
+    ],
+    "links": []
+  }
+}
