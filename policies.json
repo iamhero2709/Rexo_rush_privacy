@@ -1,0 +1,136 @@
+{
+  "privacy": {
+    "title": "Privacy Policy",
+    "sections": [
+      [
+        "About this policy",
+        "ZERO SHOT LAB develops Rexo Rush: Neon Reflex Tap (Android package com.rexo.rush). This policy explains how the Android game, optional Google Play Games cloud saves, purchase and advertising services, and this policy website handle information. Contact: randhir2709vns@gmail.com."
+      ],
+      [
+        "Game information stored on your device",
+        "Your chosen player name, local profile identifier, scores, coins, skins, power-ups, achievements, level progress, streaks and settings are saved on your device. You can play with a guest profile without connecting Google Play Games. The game has no developer-operated global leaderboard; personal bests are saved locally."
+      ],
+      [
+        "Optional Google Play Games and cloud saves",
+        "If you connect Google Play Games, the game receives your Play Games Player ID and display name, rather than your Google email address or password. Google Saved Games stores a copy of your game progress, including coins, items, scores and level records, so you can restore it with the same Play Games account. On first connection, you choose phone or cloud progress before auto-save starts. You can disconnect cloud saving from Play Games & Cloud Save in the game. Conflicting saves require a choice and are not added together. Google processes the connection and saves under its own policies."
+      ],
+      [
+        "Advertising and third-party data",
+        "The Android app uses Google AdMob for interstitial and optional rewarded ads. Google’s Mobile Ads SDK collects and shares IP address (which can indicate approximate location), advertising/app-set and applicable device or account identifiers, ad and app interactions, and diagnostic information. Google and its advertising partners process this information for advertising, measurement, analytics and fraud prevention. Personalized advertising may be used depending on device settings and applicable consent requirements. We do not directly collect precise GPS location, contacts, photos or microphone recordings for gameplay. Advertising partners process data under their own policies; see Google’s Privacy Policy and advertising controls linked below."
+      ],
+      [
+        "Permissions, reminders and sharing",
+        "Optional local notifications remind you about streaks. You can disable them through Android notification settings. Gameplay uses sound playback and vibration. If you use the share feature, the content you choose is passed to the app or service you select; its privacy policy applies."
+      ],
+      [
+        "Purchases and virtual items",
+        "The Android game uses Google Play Billing and RevenueCat for a one-time lifetime ad-free purchase. Google handles payment; ZERO SHOT LAB does not receive your card details. RevenueCat is initialized when the Android app starts to check purchase access. It processes an app user identifier, purchase history, purchase tokens and transaction records, plus app/device information used to validate, manage and restore access. This integration does not send your chosen player name, Google email address or Play Games Player ID to RevenueCat as customer attributes. An active ad-free entitlement blocks every in-game ad, including rewarded videos. Coins and virtual items are earned through gameplay, daily rewards and, for players without ad-free access, optional rewarded ads. There are no real-money coin packs in this version."
+      ],
+      [
+        "Information you send us",
+        "If you email ZERO SHOT LAB, we receive your email address and the information you choose to include. We use it to respond to support or privacy inquiries. Please avoid sending passwords or other unnecessary sensitive information. Support information is retained while needed to resolve your request, handle follow-up or meet applicable legal requirements; you may request deletion by email."
+      ],
+      [
+        "Retention and deletion",
+        "Local progress remains until you delete it. In the app, open Home → Settings → Delete Account to remove the local game profile and progress. To remove remaining local preferences, use Android Settings → Apps → Rexo Rush → Storage → Clear storage/data. This resets progress on that device. A previously synced Play Games cloud save can be restored after connecting the same Play Games account. Deleting local progress disconnects cloud saving but does not delete the Google cloud save or purchase records. Manage or delete Play Games data through your Google account/Play Games settings; Google and RevenueCat handle purchase record retention under their policies. Device backups may retain copies under your operating system or backup provider’s controls. Clearing the game’s data does not erase information already processed by Google or advertising partners; their retention and deletion practices apply. Use Google’s privacy controls or contact us for assistance with a privacy request. If you want help requesting deletion of purchase-management data, contact us at randhir2709vns@gmail.com. Records required for transactions, fraud prevention or legal obligations may need to be retained. Deleting data does not by itself request a refund or cancel a completed one-time purchase."
+      ],
+      [
+        "Your choices and data protection",
+        "Where required, Google’s consent message lets you make advertising privacy choices before ads are requested. When the option is available, open Home → Settings → Ad privacy choices to review or change them. Android and Google settings also provide advertising identifier and ad-personalization controls; availability varies by device and region. Local notification permission and connecting Play Games are optional. Buying ad-free prevents future in-game ad requests while access is verified; it does not delete data previously processed by advertising services or stop purchase verification. You may email us to request access, correction or deletion of information we control, including assistance with RevenueCat customer records. We may need enough information to identify the relevant record. Local storage relies on your device’s protections. Google and RevenueCat state that their SDK data is encrypted in transit. No storage or transmission method is completely secure."
+      ],
+      [
+        "Children",
+        "Rexo Rush is intended for users aged 13 and above and is not directed to children under 13. We do not knowingly request personal information from children under 13. If you believe a child has sent us personal information, contact us so we can review and delete information we control. A release intended for children would require corresponding advertising and policy changes."
+      ],
+      [
+        "This website and external links",
+        "These policy pages are hosted on GitHub Pages. ZERO SHOT LAB has not added cookies, advertising or analytics scripts to these pages. GitHub may process technical request information, including IP addresses, to operate and secure its hosting service. External websites are governed by their own privacy policies."
+      ],
+      [
+        "Changes and contact",
+        "Effective and last updated: 16 October 2026. Changes will be published here with an updated date. For privacy inquiries, contact ZERO SHOT LAB at randhir2709vns@gmail.com."
+      ]
+    ],
+    "links": [
+      [
+        "Google Privacy Policy",
+        "https://policies.google.com/privacy"
+      ],
+      [
+        "Google ad controls",
+        "https://myadcenter.google.com/"
+      ],
+      [
+        "AdMob SDK data disclosure",
+        "https://developers.google.com/admob/android/privacy/play-data-disclosure"
+      ],
+      [
+        "RevenueCat Privacy Policy",
+        "https://www.revenuecat.com/privacy/"
+      ],
+      [
+        "GitHub Privacy Statement",
+        "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+      ]
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "sections": [
+      [
+        "About the game",
+        "These terms apply to Rexo Rush: Neon Reflex Tap, developed by ZERO SHOT LAB. By using the game, you agree to these terms. If you do not agree, stop using the game. The game is intended for users aged 13 and above; minors should have a parent or guardian’s permission."
+      ],
+      [
+        "Permission to use",
+        "You may use the game for personal entertainment. The app and its original assets remain the property of their respective owners. Do not redistribute the app or assets without authorization, or bypass security protections, except where applicable law permits."
+      ],
+      [
+        "Local profile and progress",
+        "You may play with an on-device guest profile or connect Google Play Games when available. Cloud backup starts after you choose phone or cloud progress. Google may queue saves while offline; connect to the internet before changing devices. Restore requires the same Play Games account and previously synced data. Guest saves may be lost when storage is cleared or devices change. Conflicting saves require a choice; balances are not added together. Online rankings are not provided in this version."
+      ],
+      [
+        "Virtual items and rewards",
+        "Coins, skins and power-ups are for use only within the game. They have no cash value and cannot be withdrawn, traded for money or redeemed for real-world prizes. This version does not sell real-money coin packs. Gameplay and reward balancing may change with updates."
+      ],
+      [
+        "Lifetime ad-free purchase",
+        "The lifetime ad-free product is a one-time, non-consumable purchase through Google Play, managed by RevenueCat. The purchase screen shows the applicable local price and taxes before you confirm. There is no recurring subscription. Once Google Play confirms payment and purchase access is verified, all in-game ads are disabled, including interstitials and rewarded videos. It includes one video-free revive per run; it does not include unlimited coins, unlimited revives or unlimited power-ups. “Lifetime” means access for the supported lifetime of this game, subject to continued availability; it is not a subscription period."
+      ],
+      [
+        "Purchase status, restore and refunds",
+        "Pending, cancelled or failed payments do not unlock ad-free access. Use Restore purchase in the Shop with the Google Play account used to buy the product after reinstalling or changing devices. A Play Games cloud save does not grant purchase access; purchases are restored separately through the store. Connecting to the internet may be necessary to verify or restore access. Refunds and payment disputes follow Google Play’s applicable rules and your statutory rights. Refunded or revoked purchases may lose ad-free access. Deleting local game data does not refund the purchase. If you paid but access is missing, contact us with the relevant order reference; do not send card details or passwords."
+      ],
+      [
+        "Ads and third-party services",
+        "The game displays interstitial and optional rewarded ads through Google AdMob. Ads require connectivity and may be unavailable. For players without ad-free access, a rewarded benefit depends on a completed ad and the provider’s completion confirmation. Players with active lifetime ad-free access are not shown interstitial or rewarded ads. External ads, links and services are operated by third parties and their terms and privacy practices apply."
+      ],
+      [
+        "Fair use",
+        "Do not exploit bugs, automate ad interactions, use modified clients to manipulate rewards, or disrupt the game or third-party services. Report problems to ZERO SHOT LAB rather than abusing them."
+      ],
+      [
+        "Availability and responsibility",
+        "We aim to provide a working game, but cannot guarantee uninterrupted availability or error-free operation. To the extent permitted by applicable law, the game is provided as available without additional warranties. Nothing in these terms removes consumer rights or excludes liability that cannot lawfully be excluded."
+      ],
+      [
+        "Privacy and stopping use",
+        "Our Privacy Policy describes local storage, advertising and deletion options. You may stop using the game at any time and clear its local data. Deleting local progress does not delete information already processed by third-party advertising services. Deleting local progress disconnects cloud saving but does not delete Google Saved Games or store purchase records. See the Privacy Policy for separate cloud and purchase-data controls."
+      ],
+      [
+        "Updates and contact",
+        "Effective and last updated: 16 October 2026. We may update the game and these terms; the latest terms and revision date will be available on this website and in the app. For support or questions, email ZERO SHOT LAB at randhir2709vns@gmail.com."
+      ]
+    ],
+    "links": [
+      [
+        "Google Play Terms of Service",
+        "https://play.google.com/about/play-terms/"
+      ],
+      [
+        "Google Play refund help",
+        "https://support.google.com/googleplay/answer/2479637"
+      ]
+    ]
+  }
+}
