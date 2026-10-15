@@ -20,7 +20,7 @@
       ],
       [
         "Permissions, reminders and sharing",
-        "Optional local notifications remind you about streaks. You can disable them through Android notification settings. Gameplay uses sound playback and vibration. If you use the share feature, the content you choose is passed to the app or service you select; its privacy policy applies."
+        "Daily streak reminders are optional local notifications scheduled on your device for 10:00 AM local time after you enable them and grant notification permission. You can turn them off in Home → Settings or from the Streak page, or disable notifications in Android settings. A test notification is available in Settings. Reminder status and review-prompt timing are kept on your device; this reminder feature does not register a remote push token or send your schedule to a developer server. Gameplay uses sound playback and vibration. If you use the share feature, the content you choose is passed to the app or service you select; its privacy policy applies."
       ],
       [
         "Purchases and virtual items",
@@ -41,6 +41,10 @@
       [
         "Children",
         "Rexo Rush is intended for users aged 13 and above and is not directed to children under 13. We do not knowingly request personal information from children under 13. If you believe a child has sent us personal information, contact us so we can review and delete information we control. A release intended for children would require corresponding advertising and policy changes."
+      ],
+      [
+        "Ratings and reviews",
+        "Rating the game is optional. The game may request a Google Play review after you have played for a while, and a Rate & review option opens the Play Store. The game does not receive your selected stars or know whether you submitted a review. Google Play handles ratings and review text under its policies; reviews may be public, while feedback in test tracks may be private. Manage or delete your reviews through your Google account or Play Store controls. No in-game reward depends on a rating."
       ],
       [
         "This website and external links",

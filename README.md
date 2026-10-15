@@ -26,6 +26,7 @@ The separate `iamhero2709.github.io/app-ads.txt` file remains in the user-site r
 - Google Play / RevenueCat one-time non-consumable lifetime ad-free purchase, localized price, restore, pending payments and refunds.
 - All in-game ads disabled for verified lifetime ad-free owners, including rewarded videos; one video-free revive per run.
 - AdMob / Google consent choices and third-party processing.
+- Optional local daily streak reminders and Google Play ratings/reviews.
 - Local coins/items have no cash value; no real-money coin packs in this version.
 - Local deletion, separate cloud/purchase records, support contact and data-deletion requests.
 
@@ -35,4 +36,4 @@ References checked for SDK disclosures:
 - https://developers.google.com/admob/android/privacy/play-data-disclosure
 - https://www.revenuecat.com/docs/platform-resources/google-platform-resources/google-plays-data-safety
 
-Updating the policy does not automatically update Play Console Data Safety declarations; review them against the shipped SDKs and configuration. No hosted page was published by this local update.
+Updating the policy does not automatically update Play Console Data Safety declarations; review them against the shipped SDKs and configuration. GitHub Pages publishes these files from the configured branch after a successful push and deployment.
